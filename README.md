@@ -24,8 +24,9 @@ A responsive product catalog built with React and custom CSS, displaying product
 
 ---
 
-## 📷 Screenshots
+## ![alt text](image.png)
 
+![alt text](image-1.png)
 **Product Listing Page**  
 ![Product List](https://via.placeholder.com/600x300?text=Product+List+Page)
 
@@ -40,9 +41,3 @@ A responsive product catalog built with React and custom CSS, displaying product
 
 - Node.js and npm installed
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/react-product-catalog.git
-   cd react-product-catalog
